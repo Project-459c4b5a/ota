@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "20220819-1156.zip",
-    "datetime": 1660910043,
-    "size": 1509315408,
-    "url": "https://sourceforge.net/projects/p459c4b5a/files/release/20220819-1156.zip",
-    "filehash": "723e5779356be0d9861833d317bf1912",
-    "id": "723e5779356be0d9861833d317bf1912",
+    "filename": "PixelOS_rosy-12.1-20220820-0247.zip",
+    "datetime": 1660963490,
+    "size": 1509304941,
+    "url": "https://sourceforge.net/projects/p459c4b5a/files/release/PixelOS_rosy-12.1-20220820-0247.zip",
+    "filehash": "7ab2229c91d40189167309f3aa64a167",
+    "id": "7ab2229c91d40189167309f3aa64a167",
     "maintainers": [
         {
             "main_maintainer": false,
