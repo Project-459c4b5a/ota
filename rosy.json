@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_rosy-12.1-20220820-0247.zip",
-    "datetime": 1660963490,
-    "size": 1509304941,
-    "url": "https://sourceforge.net/projects/p459c4b5a/files/release/PixelOS_rosy-12.1-20220820-0247.zip",
-    "filehash": "7ab2229c91d40189167309f3aa64a167",
-    "id": "7ab2229c91d40189167309f3aa64a167",
+    "filename": "PixelOS_rosy-12.1-20220821-1201.zip",
+    "datetime": 1661083200,
+    "size": 1509351714,
+    "url": "https://sourceforge.net/projects/p459c4b5a/files/release/PixelOS_rosy-12.1-20220821-1201.zip",
+    "filehash": "ea90592e68ed1283a15887080331c08e",
+    "id": "ea90592e68ed1283a15887080331c08e",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -14,8 +14,8 @@
             "name": "A³-Project"
         }
     ],
-    "donate_url": "",
-    "website_url": "",
-    "news_url": "",
-    "forum_url": ""
+    "donate_url": "https://paypal.me/aepranata",
+    "website_url": "htpps://t.me/a3discussion",
+    "news_url": "htpps://t.me/a3archive",
+    "forum_url": "htpps://t.me/a3discussion"
 }
